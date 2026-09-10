@@ -1,0 +1,8 @@
+{
+  "name": "Remix Disaster Management power",
+  "description": "Real-time flood and disaster management monitoring dashboard connected to Supabase and ESP32 sensor telemetry with live CSV export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
